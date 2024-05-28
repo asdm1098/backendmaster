@@ -7,8 +7,8 @@ By: Stiven Diaz
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/github-repos.git
-   cd github-repos
+   git clone https://github.com/asdm1098/backendmaster.git
+   cd backendmaster
 
 2. Instala las dependencias:
 
