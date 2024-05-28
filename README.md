@@ -11,12 +11,13 @@ By: Stiven Diaz
    cd backendmaster
 
 2. Instala las dependencias:
-
-npm install
+    ```bash
+    npm install
 
 # Uso
 1. Inicia el servidor:
-# node src/server.js
+    ```bash
+    node src/server.js
 2. Accede a la API en http://localhost:3000/api/repos.
 
 ## Pruebas
